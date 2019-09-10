@@ -1,5 +1,71 @@
 ### Keybase proof
+### Keybase proof
 
+I hereby claim:
+
+  * I am jwlee0070 on github.
+  * I am jw_lee (https://keybase.io/jw_lee) on keybase.
+  * I have a public key ASCIrrHH6N5tMRF-YqI-ea6Nb0VGIlurp2drydzcymx5VQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012088aeb1c7e8de6d31117e62a23e79ae8d6f4546225baba7676bc9dcdcca6c79550a",
+      "host": "keybase.io",
+      "kid": "012088aeb1c7e8de6d31117e62a23e79ae8d6f4546225baba7676bc9dcdcca6c79550a",
+      "uid": "757451ee7ed22022a616cea783cff219",
+      "username": "jw_lee"
+    },
+    "merkle_root": {
+      "ctime": 1568084958,
+      "hash": "5a0c16813f6222c9f651d1301cd4ac05f6dc1237bc182432f72629f4b5e465f0d8f1949e80e3162f9fa3c3ae3c5dfcfc8fc8ad5d6d1f72dbe3b85c2c411c2bf4",
+      "hash_meta": "cf5fa7adad3d16e2e2dc7abff5e4b2d01859e1ec206b568eb6d2406176652aee",
+      "seqno": 6299559
+    },
+    "service": {
+      "entropy": "SXpOtWH9UUSpZbzJtBMt6NNk",
+      "name": "github",
+      "username": "jwlee0070"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568084964,
+  "expire_in": 504576000,
+  "prev": "5cd21971652719ab14c4aa28368d77e77d24c7b177221da42cf79240438fe770",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASCIrrHH6N5tMRF-YqI-ea6Nb0VGIlurp2drydzcymx5VQo](https://keybase.io/jw_lee), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiK6xx+jebTERfmKiPnmujW9FRiJbq6dna8nc3MpseVUKp3BheWxvYWTESpcCDcQgXNIZcWUnGasUxKooNo13530kx7F3Ih2kLPeSQEOP53DEILUgIhJlVR0SHRfk/fXulatdfUT3IEaQrEG4A6speLsXAgHCo3NpZ8RAdjuYF6qP42wPqEYacvOdAngnTvwAMClEljEHUWRyleRaGimBoGpXGyewmo75lmHOR9B8/BXCBOGcehxF1wjaC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAgixh7kdSDi5qgcEW8ZPYAdvQsxR6OWMCTJBXvF3mm3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jw_lee
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jw_lee
+```
 I hereby claim:
 
   * I am jwlee0070 on github.
